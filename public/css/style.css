@@ -1,0 +1,24 @@
+a:link
+{
+    text-decoration:none;
+}
+
+.bg-blue {
+    background-color: #2988e6!important;
+}
+
+.accordion .card .fa-angle-down {
+    float: right;
+}
+
+.accordion .card .fa-angle-up {
+    float: right;
+}
+
+
+
+.alert-innovare {
+
+    padding: 6px 11px !important;
+    margin: 0px 15px 8px !important;
+}
