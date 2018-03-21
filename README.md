@@ -13,4 +13,4 @@ composer install
 php artisan serve
 
 # host
-127.0.1.0:8080
+127.0.0.1:8000
