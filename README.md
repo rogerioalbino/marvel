@@ -1,15 +1,15 @@
-# marvel
+# Marvel
 Marvel API Client  Application
 
 
-# Clone repositor
+# clone repositor
 git clone https://github.com/rogerioalbino/marvel.git
 
-# Dependencies
+# dependencies
 composer install
 
-# Server 
+# server 
 php artesian server
 
-# Host
+# host
 127.0.1.0:8080
