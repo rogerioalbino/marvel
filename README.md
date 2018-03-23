@@ -1,16 +1,16 @@
 # Marvel
 Marvel API Client  Application
 #
-Clone o repositório 
+Clone o repositório <br>
 git clone https://github.com/rogerioalbino/marvel.git
 #
-Entre no root do projeto
+Entre no root do projeto <br>
 #
-Dependências
+Dependências <br>
 composer install
 #
-Serve
+Serve <br>
 php artisan serve
 #
-Host
+Host <br>
 127.0.0.1:8000
